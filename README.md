@@ -147,13 +147,3 @@ This project is still evolving, but my goal is to progressively move from a conc
 
 > From physical events → signals → data → information.
 
-## About me
-
-**Alex Díaz Canales**
-
-Automation and Robotics Engineering student  
-Universidad Andrés Bello — Santiago, Chile
-
-Research interests:
-
-`Detector Physics` · `Medical Physics` · `Instrumentation` · `DAQ` · `Automation` · `Scientific Computing` · `Data Visualization`
